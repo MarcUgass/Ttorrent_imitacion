@@ -1,4 +1,5 @@
 # Trivial Torrent Project: Client and Server
+Este proyecto es una imitación de un cliente torrent simple que puede conectarse a tres seeds diferentes simultáneamente para descargar archivos torrent. Está diseñado para ser una implementación básica pero funcional de un cliente torrent que muestra el proceso de conexión a seeds y descarga de archivos.
 
 ## Trivial Torrent Client
 
